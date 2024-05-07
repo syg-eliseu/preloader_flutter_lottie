@@ -45,5 +45,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 window.addEventListener('load', () => {
     // Chama a função para ocultar o overlay quando toda a página estiver carregada (incluindo imagens, CSS, etc.)
-    hideOverlay();
+    //hideOverlay();
 });
